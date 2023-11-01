@@ -5,13 +5,13 @@ project:
     port: 3333
 
 website:
-  title: "MUSA 550 Quarto Template"
+  title: "ABCD"
   site-url: "https://musa-550-fall-2023.github.io/quarto-website-starter" 
   repo-url: https://github.com/MUSA-550-Fall-2023/quarto-website-starter 
   repo-actions: [source]
 
   page-footer:
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    right: "This page is built with HATE ."
     left: "&copy; CC-Nick Hand, 2023"
 
   sidebar:
